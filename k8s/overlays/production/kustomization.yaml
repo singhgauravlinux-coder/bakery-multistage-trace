@@ -45,6 +45,9 @@ images:
 - name: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/cart-service
   newName: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/cart-service
   newTag: 13a3a4e
+- name: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/currency-service
+  newName: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/currency-service
+  newTag: 13a3a4e
 - name: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/frontend
   newName: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/frontend
   newTag: 13a3a4e
