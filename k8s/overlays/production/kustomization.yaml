@@ -38,5 +38,7 @@ patches:
   target:
     kind: Deployment
     labelSelector: app.kubernetes.io/part-of=crumb-and-ember
-
-images: []
+images:
+- name: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/analytics-service
+  newName: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/analytics-service
+  newTag: 13a3a4e
