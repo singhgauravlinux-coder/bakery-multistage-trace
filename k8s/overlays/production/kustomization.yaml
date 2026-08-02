@@ -54,6 +54,9 @@ images:
 - name: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/invoice-service
   newName: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/invoice-service
   newTag: 13a3a4e
+- name: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/language-service
+  newName: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/language-service
+  newTag: 13a3a4e
 - name: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/loyalty-service
   newName: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/loyalty-service
   newTag: 13a3a4e
