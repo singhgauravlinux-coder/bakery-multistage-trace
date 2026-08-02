@@ -29,6 +29,7 @@ commonLabels:
 
 
 
+
 patches:
 - path: patch-ingress-host.yaml
   target:
@@ -65,6 +66,9 @@ images:
   newTag: 13a3a4e
 - name: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/cart-service
   newName: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/cart-service
+  newTag: 13a3a4e
+- name: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/inventory-service
+  newName: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/inventory-service
   newTag: 13a3a4e
 - name: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/order-service
   newName: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/order-service
