@@ -72,6 +72,9 @@ images:
 - name: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/media-service
   newName: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/media-service
   newTag: 13a3a4e
+- name: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/notification-service
+  newName: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/notification-service
+  newTag: 13a3a4e
 - name: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/order-service
   newName: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/order-service
   newTag: 13a3a4e
