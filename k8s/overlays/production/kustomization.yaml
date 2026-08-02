@@ -51,3 +51,6 @@ images:
 - name: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/recipe-service
   newName: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/recipe-service
   newTag: 13a3a4e
+- name: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/review-service
+  newName: ghcr.io/singhgauravlinux-coder/bakery-multistage-trace/review-service
+  newTag: 13a3a4e
